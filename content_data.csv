@@ -1,0 +1,9 @@
+content_id,title,category,flagged,decision,region
+1,Shocking fight video,Violence,Yes,Removed,India
+2,Win free iPhone now,Spam,Yes,Removed,USA
+3,Educational math tutorial,Safe,No,Approved,India
+4,Hate speech example,Hate Speech,Yes,Removed,UK
+5,Clickbait news title,Spam,Yes,Reviewed,Canada
+6,Gaming walkthrough,Safe,No,Approved,India
+7,Offensive meme,Hate Speech,Yes,Removed,USA
+8,Tech review video,Safe,No,Approved,Germany
